@@ -101,18 +101,7 @@ SubscriptionManager/
    - Para Android: Pressione `a` no terminal (requer Android Studio)
    - Para iOS: Pressione `i` no terminal (requer Xcode - apenas macOS)
    - Para dispositivo físico: Use o app Expo Go e escaneie o QR code
-
-**Credenciamento do Banco de Dados**
-
-const firebaseConfig = {
-  apiKey: "AIzaSyCBrojEtAFzh9cCMmQgxDtX70lQ00HKcEo",
-  authDomain: "subscriptionmanager-ca07a.firebaseapp.com",
-  projectId: "subscriptionmanager-ca07a",
-  storageBucket: "subscriptionmanager-ca07a.firebasestorage.app",
-  messagingSenderId: "471606162315",
-  appId: "1:471606162315:web:2dfadfda52fde7d8beb58e"
-};
-
+     
 ## Configuração do Firebase
 
 ### Estrutura do Banco de Dados (Firestore)
