@@ -5,7 +5,7 @@ Um aplicativo mobile desenvolvido em React Native para gerenciamento de assinatu
 ## Equipe
 
 - **Desenvolvedores:** 
-Mariana Paiva Moreira de Souza - 2312130137
+Mariana Paiva de Souza Moreira - 2312130137
 Othon Flávio Alves de Sales - 2312130178
 
 - **Projeto:** Aplicativo de Gerenciamento de Assinaturas
